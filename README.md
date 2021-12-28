@@ -1,7 +1,7 @@
 ## Custom Components
 
 
-> 0000000000000001: Rounded - Dial Buttons with Middle Activator and effects. (No JS)
+> 0000000000000001: Rounded - Dial Buttons with middle button for activation and effects. (No JS)
 
 >
 
